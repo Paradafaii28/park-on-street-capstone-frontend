@@ -9,7 +9,6 @@ npm start to start app
 download expo application to your mobile phone or you can run through Android studio or x-code
 The backend was deploy with Heroku
 
-https://github.com/Paradafaii28/Parking-spot-finder-react-native-frontend
 When you open the application you will need to create a username and sign in to your account
 
 Now you can use the application.
