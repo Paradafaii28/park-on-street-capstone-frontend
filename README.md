@@ -17,7 +17,7 @@ Now you can use the application.
 After you login will show parking spot from your current location, also you can search by the city as well.
 when you click the direction button and the app will take you to that spot. 
 
-Technologies
+## Technologies
 React-native
 expo
 Packages
@@ -27,10 +27,10 @@ Packages
 * expo-auth-session
 * react-native-screens
 
-Next goals
+## Next goals
 create the cookies for the client do not need to login again 
 Add fuction can find your car after you park 
 Set the parking time and alert to your cell phone
 
-Authors
+## Authors
 Parada (Alice) Richardson - Github Repo
