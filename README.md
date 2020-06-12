@@ -1,5 +1,5 @@
 ## Parking spot finder App
-This application was build so that you could find a parking spot quick amd easy you can find a parking spot close to your current location or near your event.
+This application was built to find a parking spot quickly and easily. Find a parking spot close to your current location or near your event.
 
 ### How the app works
 * To run the app, first fork and clone down this repo to your local device.
